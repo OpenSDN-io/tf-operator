@@ -1,5 +1,5 @@
 [gerrit]
 host=gerrit.opensdn.io
 port=29418
-project=tungstenfabric/tf-operator.git
+project=opensdn-io/tf-operator.git
 defaultbranch=master
